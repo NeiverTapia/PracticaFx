@@ -1,0 +1,4 @@
+Codigo;Nombre Empleado;Nombre Producto;Precio;Cantidad;Total;
+42342;wfsdfsdf;dfsdfsdf;2342.0;32;74944.0;
+3324;sdfsdfs;sdfsdfsdf;23324.0;423;9866052.0;
+42342;fsdfsfs;fsdfsd;234.0;32423;7586982.0;
